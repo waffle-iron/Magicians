@@ -1,0 +1,2 @@
+# Magicians
+Error Detection Game
